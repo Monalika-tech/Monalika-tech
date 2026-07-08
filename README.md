@@ -65,6 +65,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Monalika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monalika-tech&show_icons=true&theme=default)
